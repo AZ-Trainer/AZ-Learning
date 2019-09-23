@@ -18,4 +18,12 @@ How-To:
 How To Edit a file on :   Click on the file to bring it to the forefront.  Then click on the pen icon on the top right of the edit frame.
                               Now youre file is in edit mode.  You can edit the file.
                               
-How Make Pull Request:    You can offer your changes to the master as a 'pull request'; by clicking on 'Pull Merge Request'
+How Make Pull Request:    You can offer your changes to the master as a 'pull request'; by clicking on 'Create Pull Request'  
+                              then adding comments on what changes are on this pull request.
+                          
+                          After the pull request is offered the Github makes sure there are no conflicts; if there are no conflicts 
+                          it offers the pull request be merged by giving you a green button to 'merge pull' request.
+                          
+                          When you merge the pull request; then Github offers to delete the branch.  You can delete that branch 
+                          since all the edits merged.  If you don't delete this branch will exist and you can add more changes to the branch 
+                          and offer the new changes again with a new pull request.
