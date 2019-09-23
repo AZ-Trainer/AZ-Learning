@@ -15,4 +15,7 @@ Graph:   Graph is graphical view of the branching of the repo.  To get to that; 
 
 
 How-To:
-How To Edit a file on :   Click on the file to bring it to the forefront.  Then click on the pen icon on the top right of the edit frame. Now youre file is in edit mode.  You can edit the file.
+How To Edit a file on :   Click on the file to bring it to the forefront.  Then click on the pen icon on the top right of the edit frame.
+                              Now youre file is in edit mode.  You can edit the file.
+                              
+How Make Pull Request:    You can offer your changes to the master as a 'pull request'; by clicking on 'Pull Merge Request'
