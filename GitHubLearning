@@ -6,6 +6,10 @@ Commit:       Save the file.
 Git Hash:  Every git file that is committed will have unique hash value for each commit of the file. When you click on the history and   point and click on any version of the file.  The new file opens: URL contains the filename & hash value. 
 Ex: https://github.com/DMoonesinghe/AZ-Learning/blob/ac3f7b459dde7ca775d8d870382834a8811ef20c/GitHubLearning
 
+Branch:  Branch creates a separate project that branches off the first project.  It is created by doing one of two things:
+          1. Saving the new edits to the Master as a different branch while commiting.
+          2. Or create a branch at the begning before opening the file itself.
+
 
 
 How-To:
