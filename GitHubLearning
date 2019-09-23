@@ -3,6 +3,9 @@ The first thing I am doing to learn GitHub is watch a YouTube Video "1.1: Introd
 Keywords:
 Repository:  A Folder for your proeject.
 Commit:       Save the file.
+Git Hash:  Every git file that is committed will have unique hash value for each commit of the file. When you click on the history and   point and click on any version of the file.  The new file opens: URL contains the filename & hash value. 
+Ex: https://github.com/DMoonesinghe/AZ-Learning/blob/ac3f7b459dde7ca775d8d870382834a8811ef20c/GitHubLearning
+
 
 
 How-To:
