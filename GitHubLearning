@@ -27,3 +27,5 @@ How Make Pull Request:    You can offer your changes to the master as a 'pull re
                           When you merge the pull request; then Github offers to delete the branch.  You can delete that branch 
                           since all the edits merged.  If you don't delete this branch will exist and you can add more changes to the branch 
                           and offer the new changes again with a new pull request.
+                          
+                          What happens when I make a 2nd branch:  This is going to be in the 2nd Branch.
